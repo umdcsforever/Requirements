@@ -1,2 +1,2 @@
-# requirements
+# Requirements
 Specify each member's idea and requirements for it

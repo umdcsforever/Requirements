@@ -23,6 +23,7 @@ DK | @dk2823
 - [Git is Simpler](http://nfarina.com/post/9868516270/git-is-simpler)
 - [Git Internals (PDF)](http://rogerdudler.github.io/git-guide/)
 
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 #### Reference
 - [Git documentation](https://git-scm.com/doc)

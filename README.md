@@ -14,9 +14,21 @@ DK | @dk2823
 - [Markdwon Syntax easy](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
-#### Git Commands + documentation
+# Git
+#### Git Tutorials/Guides
 - [Git super easy guide for beginners](http://rogerdudler.github.io/git-guide/)
-- [Git documentation](https://git-scm.com/doc)
+- [Simplest intro to git by GitHub](http://try.github.io/)
+- [Git tutorial in text](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gittutorial.html)
+- [Git Visual Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
+- [Git is Simpler](http://nfarina.com/post/9868516270/git-is-simpler)
+- [Git Internals (PDF)](http://rogerdudler.github.io/git-guide/)
 
-#### Emoji Cheatsheet  (Git)
+
+#### Reference
+- [Git documentation](https://git-scm.com/doc)
+- [Git Cheat Sheet](https://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet-pdf-v2.png)
+- [Git Cheat Sheet in text](http://cheat.errtheblog.com/s/git)
 - [Git Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+
+

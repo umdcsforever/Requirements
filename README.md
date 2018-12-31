@@ -22,7 +22,6 @@ DK | @dk2823
 - [Git Visual Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
 - [Git is Simpler](http://nfarina.com/post/9868516270/git-is-simpler)
 - [Git Internals (PDF)](http://rogerdudler.github.io/git-guide/)
-
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 #### Reference
@@ -30,6 +29,11 @@ DK | @dk2823
 - [Git Cheat Sheet](https://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet-pdf-v2.png)
 - [Git Cheat Sheet in text](http://cheat.errtheblog.com/s/git)
 - [Git Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+# Software Design Patterns\
+#### Architectural\
+- [MVC vs MVP vs MVVM](https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad)\
+
 
 # Projects
 > (CW) I want to do collaborative projects + personal projects, helping eaching other :satisfied:\

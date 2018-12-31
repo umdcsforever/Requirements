@@ -32,7 +32,7 @@ DK | @dk2823
 - [Git Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 # Projects
-> (CW) I want to do collaborative projects + personal projects, helping eaching other :satisfied:
+> (CW) I want to do collaborative projects + personal projects, helping eaching other :satisfied:\
 > (JW) Sure, I'm down for a collaborative project. Maybe one of [these](https://medium.com/zerotomastery/top-libraries-tech-to-learn-in-2019-for-full-stack-developers-f8c0331b8a00) topics?
 - [CSharp WPF RPG](https://github.com/umdcsforever/CSharp-WPF-RPG)
 - [JS Diff](https://github.com/umdcsforever/js_diff)

@@ -30,13 +30,12 @@ DK | @dk2823
 - [Git Cheat Sheet in text](http://cheat.errtheblog.com/s/git)
 - [Git Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-# Software Design Patterns\
-#### Architectural\
-- [MVC vs MVP vs MVVM](https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad)\
-
+# Software Design Patterns  
+#### Architectural  
+- [MVC vs MVP vs MVVM](https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad)  
 
 # Projects
-> (CW) I want to do collaborative projects + personal projects, helping eaching other :satisfied:\
+> (CW) I want to do collaborative projects + personal projects, helping eaching other :satisfied:  
 > (JW) Sure, I'm down for a collaborative project. Maybe one of [these](https://medium.com/zerotomastery/top-libraries-tech-to-learn-in-2019-for-full-stack-developers-f8c0331b8a00) topics?
 - [CSharp WPF RPG](https://github.com/umdcsforever/CSharp-WPF-RPG)
 - [JS Diff](https://github.com/umdcsforever/js_diff)

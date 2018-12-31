@@ -1,6 +1,6 @@
 # Requirements
 Specify each member's idea and requirements for it.
-* *Admins, feel free to change any wordings if necessary.
+* Admins, feel free to change any wordings if necessary.
 
 Admin | Github ID
 --|--

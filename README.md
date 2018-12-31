@@ -39,4 +39,5 @@ DK | @dk2823
 > (JW) Sure, I'm down for a collaborative project. Maybe one of [these](https://medium.com/zerotomastery/top-libraries-tech-to-learn-in-2019-for-full-stack-developers-f8c0331b8a00) topics?
 - [CSharp WPF RPG](https://github.com/umdcsforever/CSharp-WPF-RPG)
 - [JS Diff](https://github.com/umdcsforever/js_diff)
-
+> Collaborative Project Idea
+- [Stock Predictor/Analyzer with Artificial Intelligence](https://github.com/umdcsforever/Stock_Analyzer_AI)

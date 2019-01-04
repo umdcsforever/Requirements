@@ -13,6 +13,7 @@ DK | @dk2823
 - [Writing Tips on Github](https://help.github.com/categories/writing-on-github/)
 - [Markdwon Syntax easy](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+- [Markdown Quick Reference Cheat Sheet](https://en.support.wordpress.com/markdown-quick-reference/)  
 
 # Git
 #### Git Tutorials/Guides

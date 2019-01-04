@@ -14,6 +14,7 @@ DK | @dk2823
 - [Markdwon Syntax easy](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [Markdown Quick Reference Cheat Sheet](https://en.support.wordpress.com/markdown-quick-reference/)  
+- [In-Browser Markdown Editor](https://stackedit.io/app#)
 
 # Git
 #### Git Tutorials/Guides

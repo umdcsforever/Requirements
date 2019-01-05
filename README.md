@@ -36,7 +36,7 @@ DK | @dk2823
 # Software Design Patterns  
 #### Architectural  
 - [MVC vs MVP vs MVVM](https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad)  
-- [Responsive Web Designs] (https://alistapart.com/article/responsive-web-design)
+- [Responsive Web Designs](https://alistapart.com/article/responsive-web-design)
 
 # Projects
 > (CW) I want to do collaborative projects + personal projects, helping eaching other :satisfied:  

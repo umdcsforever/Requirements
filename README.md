@@ -37,6 +37,7 @@ DK | @dk2823
 #### Architectural  
 - [MVC vs MVP vs MVVM](https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad)  
 - [Responsive Web Designs](https://alistapart.com/article/responsive-web-design)  
+- [Angular vs React](https://medium.freecodecamp.org/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76)
 #### Behavioral
 - [Observer Design Pattern (Publish-Subsribe)](https://sourcemaking.com/design_patterns/observer)  
 

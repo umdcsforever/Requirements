@@ -16,6 +16,8 @@ DK | @dk2823
 - [Markdown Quick Reference Cheat Sheet](https://en.support.wordpress.com/markdown-quick-reference/)  
 - [In-Browser Markdown Editor](https://stackedit.io/app#)
 
+#### Chrome Console
+- [Chrome Dev Tools API](https://developers.google.com/web/tools/chrome-devtools/console/api)
 # Git
 #### Git Tutorials/Guides
 - [Git super easy guide for beginners](http://rogerdudler.github.io/git-guide/)
@@ -49,4 +51,6 @@ DK | @dk2823
 > Collaborative Project Idea
 - [Stock Predictor/Analyzer with Artificial Intelligence](https://github.com/umdcsforever/Stock_Analyzer_AI)
 
-> (CW)If we team up, we can probably complete some paid online works/tasks and split by $/n and also (time spent on project)/n... Although we are only 2 right now.. keke
+> (CW) If we team up, we can probably complete some paid online works/tasks and split by $/n and also (time spent on project)/n... Although we are only 2 right now.. keke
+
+> (CW) Anthoer idea would be Google Chrome extension <- I heard this is easy to make but very useful.

@@ -48,3 +48,5 @@ DK | @dk2823
 - [JS Diff](https://github.com/umdcsforever/js_diff)
 > Collaborative Project Idea
 - [Stock Predictor/Analyzer with Artificial Intelligence](https://github.com/umdcsforever/Stock_Analyzer_AI)
+
+> (CW)If we team up, we can probably complete some paid online works/tasks and split by $/n and also (time spent on project)/n... Although we are only 2 right now.. keke

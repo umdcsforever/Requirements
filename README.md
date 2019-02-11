@@ -1,7 +1,7 @@
 # Requirements
 Specify each member's idea and requirements for it.
 * Admins, feel free to change any wordings if necessary.
-
+* Logo updated with a terp representing UMD, Any thoughts?
 Admin | Github ID
 --|--
 CW | @deadmeats

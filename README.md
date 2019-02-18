@@ -55,3 +55,5 @@ DK | @dk2823
 > (CW) If we team up, we can probably complete some paid online works/tasks and split by $/n and also (time spent on project)/n... Although we are only 2 right now.. keke
 
 > (CW) Anthoer idea would be Google Chrome extension <- I heard this is easy to make but very useful.
+> (CW) New Idea
+- Youtube to MP3 for personal use

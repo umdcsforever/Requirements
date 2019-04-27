@@ -5,7 +5,7 @@ Specify each member's idea and requirements for it.
 
 Admin | Github ID
 --|--
-CW | @deadmeats
+CW | @cw-infinite
 JW | @p-joon
 DK | @dk2823
 
